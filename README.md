@@ -48,10 +48,10 @@ with rationale for non-obvious choices and links to where decisions were tested.
 
 ## Related repos
 
-- [autoripper-toolkit](https://github.com/Booboogotrizz/autoripper-toolkit) — the disc-rip pipeline the services guide references
-- [homelab-cheatsheet-overlay](https://github.com/Booboogotrizz/homelab-cheatsheet-overlay) — the desktop overlay that shows the IPs/services from these guides
-- [ventoy-multiboot-toolkit](https://github.com/Booboogotrizz/ventoy-multiboot-toolkit) — the USB toolkit referenced in the recovery sections
-- [claude-project-dashboard](https://github.com/Booboogotrizz/claude-project-dashboard) — what I use to track which builds are at what completion state
+- [autoripper-toolkit](https://github.com/rngauf/autoripper-toolkit) — the disc-rip pipeline the services guide references
+- [homelab-cheatsheet-overlay](https://github.com/rngauf/homelab-cheatsheet-overlay) — the desktop overlay that shows the IPs/services from these guides
+- [ventoy-multiboot-toolkit](https://github.com/rngauf/ventoy-multiboot-toolkit) — the USB toolkit referenced in the recovery sections
+- [claude-project-dashboard](https://github.com/rngauf/claude-project-dashboard) — what I use to track which builds are at what completion state
 
 ## License
 
